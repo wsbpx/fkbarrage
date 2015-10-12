@@ -15,3 +15,4 @@ FK_html_JS弹幕效果jQuery插件
 
 #使用
 	barrage.pusshtxt('字幕文字','其它CSS样式[可选]');
+	end
